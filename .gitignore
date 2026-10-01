@@ -1,0 +1,81 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.kotlin
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# IDEA 配置，不上传
+.idea/
+*.iml
+out/
+target/
+
+# Eclipse 相关
+.classpath
+.project
+.c9/
+*.launch
+
+# R语言
+.Rhistory
+.RData
+
+# 编译文件
+*.class
+
+# Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 虚拟环境
+venv/
+.venv/
+env/
+.env
+
+# 数据集、大文件
+*.csv
+*.npy
+*.npz
+*.h5
+*.parquet
+*.xls
+*.xlsx
+
+# VSCode配置
+.vscode/
+
+# 日志
+*.log
+
+# 其他项目缓存文件夹
+.claude/
+.wolf/
+CLAUDE.md
